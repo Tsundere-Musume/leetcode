@@ -11,3 +11,7 @@
 8. [valid-sudoku](https://leetcode.com/problems/valid-sudoku/description/)
 9. [longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 
+## Two Pointers
+1. [valid-palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+2. [two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+
