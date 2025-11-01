@@ -17,3 +17,6 @@
 - [x] ~~[container-with-most-water](https://leetcode.com/problems/container-with-most-water/description/)~~
 - [x] [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/description/) <!--TODO: REDO-->
 
+## Stack
+- [x] ~~[valid_parentheses](https://leetcode.com/problems/valid-parentheses/)~~
+- [ ] [min_stack](https://leetcode.com/problems/min-stack/)
