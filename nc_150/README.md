@@ -1,17 +1,19 @@
 # Neetcode 150
 
 ## Arrays & Hashing
-1. [contains-duplicate](https://leetcode.com/problems/contains-duplicate/description/)
-2. [valid-anagram](https://leetcode.com/problems/valid-anagram/description/)
-3. [two-sum](https://leetcode.com/problems/two-sum/description/)
-4. [group-anagrams](https://leetcode.com/problems/group-anagrams/description/)
-5. [top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/)
-6. [encode-and-decode-strings](https://neetcode.io/problems/string-encode-and-decode?list=neetcode150)
-7. [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/description/)
-8. [valid-sudoku](https://leetcode.com/problems/valid-sudoku/description/)
-9. [longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+- [x] ~~[contains-duplicate](https://leetcode.com/problems/contains-duplicate/description/)~~
+- [x] ~~[valid-anagram](https://leetcode.com/problems/valid-anagram/description/)~~
+- [x] ~~[two-sum](https://leetcode.com/problems/two-sum/description/)~~
+- [x] ~~[group-anagrams](https://leetcode.com/problems/group-anagrams/description/)~~
+- [x] ~~[top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/)~~
+- [x] ~~[encode-and-decode-strings](https://neetcode.io/problems/string-encode-and-decode?list=neetcode150)~~
+- [x] ~~[product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/description/)~~
+- [x] ~~[valid-sudoku](https://leetcode.com/problems/valid-sudoku/description/)~~
+- [x] ~~[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)~~
 
 ## Two Pointers
-1. [valid-palindrome](https://leetcode.com/problems/valid-palindrome/description/)
-2. [two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+- [x] ~~[valid-palindrome](https://leetcode.com/problems/valid-palindrome/description/)~~
+- [x] ~~[two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)~~
+- [x] ~~[container-with-most-water](https://leetcode.com/problems/container-with-most-water/description/)~~
+- [x] [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/description/) <!--TODO: REDO-->
 
