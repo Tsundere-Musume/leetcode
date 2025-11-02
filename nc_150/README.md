@@ -19,4 +19,6 @@
 
 ## Stack
 - [x] ~~[valid_parentheses](https://leetcode.com/problems/valid-parentheses/)~~
-- [ ] [min_stack](https://leetcode.com/problems/min-stack/)
+- [x] ~~[min_stack](https://leetcode.com/problems/min-stack/)~~
+- [x] ~~[reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)~~
+
