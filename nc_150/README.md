@@ -21,4 +21,5 @@
 - [x] ~~[valid_parentheses](https://leetcode.com/problems/valid-parentheses/)~~
 - [x] ~~[min_stack](https://leetcode.com/problems/min-stack/)~~
 - [x] ~~[reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)~~
+- [x] [daily-temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 
