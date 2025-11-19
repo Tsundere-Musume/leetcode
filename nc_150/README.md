@@ -23,4 +23,8 @@
 - [x] ~~[reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)~~
 - [x] [daily-temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 - [x] [car-fleet](https://leetcode.com/problems/car-fleet/description/)
+- [x] [largest-rectangle-in-histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) <!--TODO: REDO-->
 
+## Binary Search
+- [x] ~~[binary-search](https://leetcode.com/problems/binary-search/description/)~~
+- [ ] [search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
