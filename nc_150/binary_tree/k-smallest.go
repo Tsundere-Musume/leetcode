@@ -9,22 +9,23 @@ package leetcode
  */
 
 func kthSmallest(root *TreeNode, k int) int {
-	result := -1  
-	dfs(root, k, 0, &result)
-	return result
-}
+	count, res := k, 0
 
-func dfs(node *TreeNode, k int, count int, result *int) int  {
-	if (node == nil || count > k) {
-		return count
+	var dfs func(*TreeNode)
+	dfs = func (node *TreeNode) {
+		if (node == nil) {
+			return 
+		}
+
+		dfs(node.Left)
+		count--
+		if (count == 0) {
+			res = node.Val
+			return
+		}
+		dfs(node.Right)
 	}
-	count = dfs(node.Left, k, count, result)
-	count++
-	if (count == k) {
-		*result = node.Val
-		return count
-	}
-	count = dfs(node.Right, k, count, result)
-	return count
+	dfs(root)
+	return res
 }
 
