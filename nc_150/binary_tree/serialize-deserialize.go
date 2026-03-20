@@ -42,6 +42,7 @@ func (this *Codec) serialize(root *TreeNode) string {
 		dfs(node.Right)
 	}
 
+	dfs(root)
 	return sb.String()
 
 }
